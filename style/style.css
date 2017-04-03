@@ -1,0 +1,61 @@
+div.topbanner {
+    background-color: #03396c;
+    width: 100%;
+    margin: 0px;
+}
+li.navlist {
+    display: inline;
+    padding: 5px;
+    margin: 5px;
+}
+ul.navbuttons {
+    text-align: right;
+    padding: 5px;
+}
+button.navbutton {
+    background-color: #03396c;
+    color: white;
+    border-radius: 15px;
+}
+body {
+    background-color:#f8f8fa;
+    color: #011f4b;
+    margin: 0px;
+    font-family: monospace;
+}
+
+h1.title {
+    margin: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+p {
+    margin: 15px;
+
+}
+
+img.portfolio {
+    border: 1px solid #011f4b;
+    clear: left;
+    float: left;
+    margin: 10px;
+
+}
+
+p.portfolio {
+    margin: 10px;  
+    padding: 10px; 
+}
+div.test {
+    overflow: auto;
+}
+div.socialmediabar {
+
+}
+
+button.mediabutton {
+    background-color: #f8f8fa;
+    color: #011f4b;
+    border: 1px solid #011f4b;
+    border-radius: 100px;
+}
